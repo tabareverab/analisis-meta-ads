@@ -43,7 +43,7 @@ Este proyecto analiza el rendimiento de campañas publicitarias en Meta Ads (Fac
 
 ## 📎 Recursos
 
-- Presentación en Looker Studio: *(puedes agregar un enlace si está disponible)*
+- Presentación en Looker Studio: *https://lookerstudio.google.com/reporting/5d1e247f-d27a-48ce-8a91-43457bbdc86d*
 
 ---
 
