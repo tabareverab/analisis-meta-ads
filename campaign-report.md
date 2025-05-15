@@ -1,5 +1,54 @@
 # ***Luis Botón***
 
+# *February–March Analysis* 
+
+- [February–March Analysis](https://lookerstudio.google.com/u/0/reporting/d326dd28-a105-4765-bbdf-639fe010b175/page/kWbIF)  
+    
+* Low CTR in the autumn launch campaign and high CPC – there is room for improvement.  
+* Carousel content does not perform the same as images or reels; it might be better to focus campaigns on these formats to generate more interactions.
+
+The Autumn–Winter Launch Campaign, in my opinion, had several flaws, especially considering the high investment compared to the low reach it achieved.  
+After deeply analyzing how the ads were executed, I noticed that out of the three ads, only one performed with a ROAS near 1.5 and a CTR that was almost acceptable. This was the only ad created as a reel with an original and catchy copy. The other two ads used images and generic copies, delivering very poor results: CTR below 0.3% and ROAS around 1. Compared to other campaigns, these are numbers that deserve attention.  
+For this campaign, I would focus on using **reels**, targeting **women**, who showed significantly more engagement — about ten times more than men.
+
+**SMART Objective:**
+
+* Increase CTR to approximately **2.5%** by April by creating **three ads** (2 reels and 1 image), targeted at women with innovative copywriting that captures attention throughout the month.
+
+CPC was impacted during the last two campaigns, so with the same content recommendations as in the first objective, I would aim to reduce it.
+
+**SMART Objective:**
+
+* Reduce CPC to **below $100** in April.
+
+On the other hand, considering all campaigns together, the **conversion rate** remains very low. I consider it essential to focus efforts on improving that metric.  
+To do this, I would suggest improving the **landing page or website** where purchases are made, since the CTR is already acceptable.
+
+**SMART Objective:**
+
+* Increase the **conversion rate to 3%–4%** by April.
+
+# *Presentation*
+
+- [**Looker Studio Presentation – Luis Botón**](https://lookerstudio.google.com/reporting/5d1e247f-d27a-48ce-8a91-43457bbdc86d)
+
+# 
+
+# *April Analysis*
+
+During this month, the objective of increasing the CTR to over 2.5% was achieved (**2.53%**), and CPC was reduced to **$41.25**, which is a very positive result, reaching less than half of the targeted CPC.
+
+However, the **conversion rate in April was still low** compared to the proposed goal. The good CTR indicates that the content captured attention and drove traffic to the landing page, but this reveals a **bottleneck** within the website. It might be necessary to **redesign the page** or rethink how offers are displayed.
+
+**Future Goals:**
+
+- Improve the **website or landing page** to create a better shopping experience and increase conversion rate.  
+- Leverage content for the **female audience**, which drives the most traffic, without neglecting the **male audience**, who — although less frequent visitors — show a good conversion rate.  
+- **Reels** once again proved to be more attractive and effective in generating traffic. However, their **CTR and engagement rate** are only slightly higher than those of image ads. On the other hand, **images perform better across both genders**, while reels are **heavily favored by the female audience**. Therefore, I do not rule out continuing to emphasize both formats, as they are equally effective. 
+#
+#
+# ***Luis Botón***
+
 # *Analisis Febrero-Marzo* 
 
 - [Analisis Febrero-Marzo](https://lookerstudio.google.com/u/0/reporting/d326dd28-a105-4765-bbdf-639fe010b175/page/kWbIF)  
